@@ -22,7 +22,7 @@ srand(time(0));
 	}
 	else if (n < 0)
 	{
-		printf("n%d is negative\n", n);
+		printf("%d is negative\n", n);
 	}
 	return (0);
 }
