@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * main - entery point
- * return: 0
+ *
+ * Retutn: Always 0 (success)
  */
 int main(void)
 {
